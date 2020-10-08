@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction on Моё тестовое задание для documentat.io</title>
+    <link>http://sashainthewild.github.io/</link>
+    <description>Recent content in Introduction on Моё тестовое задание для documentat.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Mar 2019 08:47:11 +0100</lastBuildDate><atom:link href="http://sashainthewild.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Как включить HTTPS на вашем сайте c Apache с помощью Let’s Encrypt</title>
+      <link>http://sashainthewild.github.io/docs/guide-lets-encrypt-for-apache-ru/</link>
+      <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
+      
+      <guid>http://sashainthewild.github.io/docs/guide-lets-encrypt-for-apache-ru/</guid>
+      <description>Как включить HTTPS на вашем сайте c Apache с помощью Let’s Encrypt #  Let’s Encrypt представляет собой некоммерческий центр сертификации (Certificate Authority, CA), позволяющий бесплатно получать, устанавливать и обновлять сертификаты TLS/SSL. Процесс получения сертификатов упрощается за счёт наличия ACME-клиента Certbot, который автоматизирует практически все необходимые операции, в том числе и для Apache.
+Несмотря на то, что SSL-сертификаты Let’s Encrypt бесплатны — это не означает, что уровень их шифрования ниже, чем у платных сертификатов.</description>
+    </item>
+    
+    <item>
+      <title>Как включить HTTPS на вашем сайте с nginx с помощью Let&#39;s Encrypt</title>
+      <link>http://sashainthewild.github.io/docs/guide-lets-encyrpt-for-nginx-ru/</link>
+      <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
+      
+      <guid>http://sashainthewild.github.io/docs/guide-lets-encyrpt-for-nginx-ru/</guid>
+      <description>Как включить HTTPS на вашем сайте с nginx с помощью Let&amp;rsquo;s Encrypt #  Let’s Encrypt представляет собой некоммерческий центр сертификации (Certificate Authority, CA), позволяющий бесплатно получать, устанавливать и обновлять сертификаты TLS/SSL. Процесс получения сертификатов упрощается за счёт наличия ACME-клиента Certbot, который автоматизирует практически все необходимые операции.
+Несмотря на то, что SSL-сертификаты Let’s Encrypt бесплатны — это не означает, что уровень их шифрования ниже, чем у платных сертификатов. Let’s Encrypt придерживается самых высоких стандартов шифрования и предлагает сертификаты высокого уровня надежности.</description>
+    </item>
+    
+  </channel>
+</rss>
