@@ -1,0 +1,28 @@
+baseURL = "sashainthewild.github.io"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "book"
+DefaultContentLanguage = "ru"
+
+[languages]
+  [languages.en]
+    title = "My test case for documentat.io"
+    weight = 2
+    languageName = 'English'
+    contentDir = 'content.en'
+    [languages.en.params]
+      linkedin = "https://linkedin.com/whoever"
+
+  [languages.ru]
+    title = "Моё тестовое задание для documentat.io"
+    weight = 1
+    languageName = 'Russian'
+    contentDir = 'content'
+    [languages.ru.params]
+      linkedin = "https://linkedin.com/ru/whoever"
+      [languages.ru.params.navigation]
+        help = "Помощь"
+
+[params]
+  [params.navigation]
+    help = "Help"
