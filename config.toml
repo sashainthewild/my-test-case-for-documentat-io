@@ -1,6 +1,6 @@
-baseURL = "sashainthewild.github.io"
+baseURL = "http://sashainthewild.github.io"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "My test case for documentat.io"
 theme = "book"
 DefaultContentLanguage = "ru"
 
